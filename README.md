@@ -2,11 +2,10 @@
 
 
 
-<b></b> </br> <br>[![Facebook](https://www.facebook.com/nadanprinda11111?mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-HASEEB-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+923468505939)
-
+<b></b> </br> <br>[![Facebook](https://img.shields.io/badge/Facebook-MAHI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/nadanprinda11111?mibextid=ZbWKwL)<br> [![Whatsapp](https://img.shields.io/badge/Whatsapp-MAHI-deepgreen
  
 
- 
+
 
  
 
